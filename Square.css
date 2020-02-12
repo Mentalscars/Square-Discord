@@ -115,7 +115,7 @@
   fill: transparent;
   stroke-width: var(--SD-avatar-status-width);}
 
-*/Not sure what this bit does/*
+/* Not sure what this bit does */
 
 #app-mount .wrapper-3t9DeA rect[fill="#43b581"], #app-mount .wrapper-3t9DeA rect[fill="rgba(67, 181, 129, 1)"], #app-mount .wrapper-3t9DeA rect[mask*=online] {
   stroke: var(--green);
